@@ -1,6 +1,6 @@
 [package]
 name = "reiterate"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Manish Goregaokar <manishsmail@gmail.com>"]
 edition = "2018"
 description = "Iterator adaptor with caching that allows reiterating over the same iterator through the cache"
@@ -9,5 +9,5 @@ documentation = "https://docs.rs/reiterate/"
 repository = "https://github.com/manishearth/reiterate"
 
 [dependencies]
-elsa = "0.1.3"
+elsa = "1.0.1"
 stable_deref_trait = "1.1.1"
