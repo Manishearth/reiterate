@@ -1,6 +1,6 @@
 [package]
 name = "reiterate"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Manish Goregaokar <manishsmail@gmail.com>"]
 edition = "2018"
 description = "Iterator adaptor with caching that allows reiterating over the same iterator through the cache"
