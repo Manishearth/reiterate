@@ -1,6 +1,6 @@
 use elsa::FrozenVec;
 
-use stable_deref_trait::StableDeref;
+pub use stable_deref_trait::StableDeref;
 use std::cell::{Cell, RefCell};
 use std::ops::Deref;
 
