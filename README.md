@@ -1,7 +1,7 @@
 ## reiterate
 
 [![Build Status](https://travis-ci.org/Manishearth/reiterate.svg?branch=master)](https://travis-ci.org/Manishearth/reiterate)
-[![Current Version](https://meritbadge.herokuapp.com/reiterate)](https://crates.io/crates/reiterate)
+[![Current Version](https://img.shields.io/crates/v/reiterate.svg)](https://crates.io/crates/reiterate)
 [![License: MIT/Apache-2.0](https://img.shields.io/crates/l/reiterate.svg)](#license)
 
 An adaptor around an iterator that can produce multiple iterators sharing an underlying cache.
